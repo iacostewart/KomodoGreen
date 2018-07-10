@@ -1,0 +1,13 @@
+﻿KomodoGreen.BLL 
+Your Business Logic Layer will have all of your business logic. It will do the heavy lifting in your app 
+
+that includes CRUD + Lists.  It will check with the .Data models to ensure that business rules are being 
+followed. These files will look a lot like our repository pattern code last week. 
+
+It’s important to note that this layer only cares about a couple things:
+What is in the .Data models.
+What the service contracts are dictating.
+
+Note: You should not have any Console Statements in this portion of the application. This layer should not 
+care about what other layer is going to use it.  This would ideally be a reusable layer to be used by a different 
+UI without difficulty, such as an MVC app or a WebAPI.

@@ -1,0 +1,3 @@
+﻿KomodoGreen.Contracts
+Your contracts layer will hold your interfaces for the application. Here you will put interfaces 
+that are implemented on the Service layer and the UI layer interface(s) to be used for mocking in the Unit Tests.

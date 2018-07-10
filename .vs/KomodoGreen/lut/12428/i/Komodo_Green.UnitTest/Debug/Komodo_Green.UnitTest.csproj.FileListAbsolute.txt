@@ -1,0 +1,8 @@
+C:\Users\A218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\b\Komodo_Green.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\A218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\b\Komodo_Green.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\A218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\b\Komodo_Green.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\A218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\b\Komodo_Green.UnitTest\bin\Debug\Komodo_Green.UnitTest.dll
+C:\Users\A218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\i\Komodo_Green.UnitTest\Debug\Komodo_Green.UnitTest.csprojAssemblyReference.cache
+C:\Users\A218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\i\Komodo_Green.UnitTest\Debug\Komodo_Green.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\A218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\i\Komodo_Green.UnitTest\Debug\Komodo_Green.UnitTest.csproj.CopyComplete
+C:\Users\A218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\i\Komodo_Green.UnitTest\Debug\Komodo_Green.UnitTest.dll

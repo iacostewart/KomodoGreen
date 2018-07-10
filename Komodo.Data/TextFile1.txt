@@ -1,0 +1,17 @@
+﻿KomodoGreen.Data
+Here you will put your POCOs with constructors, overrides for ToString() and .Equals() if needed, 
+and some validation requirements. These should have low level checks for validation that are encapsulated 
+in Getters and Setters.
+
+
+Properties
+Make, Model, Year, NumberOfCityMilesPerWeek, NumberOfHighwayMilesPerWeek.
+
+Gas Cars  
+Miles Per Gallon
+
+Hybrid Cars
+Miles Per Gallon
+
+Electric Cars
+Miles Per Charge

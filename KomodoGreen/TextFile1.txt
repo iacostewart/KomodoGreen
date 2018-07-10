@@ -1,0 +1,41 @@
+﻿The program will have a series of menus to be cleared when a user makes a choice. 
+The following is an example of a few menus:
+
+Main Menu
+What would you like to do?
+Add a car
+See all cars
+Search for specific car
+Exit Program
+
+
+Choice 1: Add a Car
+What kind of car would you like to add?
+Gas
+Hybrid
+Electric
+		
+		Choice: 3 Create an Electric Car Prompts
+What is the make of the car? Tesla
+What is the model of the car? Model 3
+What year is the car? 2017
+How many city miles per week? 200.5
+How many highway miles per week? 135.5
+How many miles per charge? 315
+
+
+		
+	Choice 2: See all cars
+	Type      Make   Model   Year    City     Highway  MPG/Charge
+	Electric, Tesla,  Model 3, 2017,   200.5, 135.5,        315
+Electric, Nissan, Leaf,      2016,  210.5, 105.5,        250
+	Gas, Volvo, CX70, 2001, 210.5, 125.5,  310,          315
+
+	Choice 3: Search for a specific car
+	What is the Make of the car?
+	Tesla
+	What is the Model of the car?
+
+	There is one Tesla in the list:
+			Electric, Tesla,  Model 3, 2017,   200.5, 135.5,        315
+

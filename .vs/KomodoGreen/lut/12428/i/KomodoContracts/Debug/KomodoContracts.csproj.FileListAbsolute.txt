@@ -1,0 +1,6 @@
+c:\users\a218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\b\KomodoContracts\bin\Debug\KomodoContracts.exe.config
+c:\users\a218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\b\KomodoContracts\bin\Debug\KomodoContracts.exe
+c:\users\a218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoContracts\Debug\KomodoContracts.csprojAssemblyReference.cache
+c:\users\a218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoContracts\Debug\KomodoContracts.csproj.CoreCompileInputs.cache
+c:\users\a218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoContracts\Debug\KomodoContracts.csproj.CopyComplete
+c:\users\a218014\Source\Repos\KomodoGreen\.vs\KomodoGreen\lut\0\i\KomodoContracts\Debug\KomodoContracts.exe

@@ -1,0 +1,17 @@
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\KomodoGreen.exe.config
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\KomodoGreen.exe
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\KomodoGreen.pdb
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\KomodoContracts.exe
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\KomodoGreen.Bizz.exe
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\Komodo.Data.exe
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\KomodoContracts.pdb
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\KomodoContracts.exe.config
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\KomodoGreen.Bizz.pdb
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\KomodoGreen.Bizz.exe.config
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\Komodo.Data.pdb
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\bin\Debug\Komodo.Data.exe.config
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\obj\Debug\KomodoGreen.UI.csprojAssemblyReference.cache
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\obj\Debug\KomodoGreen.UI.csproj.CoreCompileInputs.cache
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\obj\Debug\KomodoGreen.UI.csproj.CopyComplete
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\obj\Debug\KomodoGreen.exe
+c:\users\a218014\Source\Repos\KomodoGreen\KomodoGreen\obj\Debug\KomodoGreen.pdb
